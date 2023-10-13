@@ -1,3 +1,3 @@
 ### Leetcode Questions Practice
 
-https://leetcode.com/problemset/all/?page=1&listId=79h8rn6
+https://leetcode.com/problem-list/top-100-liked-questions/
