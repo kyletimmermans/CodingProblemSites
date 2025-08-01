@@ -3,7 +3,7 @@ An array is considered "beautiful" if all the numbers in the array,
 can either be divided by the index they are in and yield a whole number
 or he index they are in can be divided by the value that they hold
 
-a[i] / i   or    i / a[i]
+a[i] / i   OR   i / a[i]
 
 e.g. [1, 2, 3, 4, 5] or [2, 1, 3, 4, 5] are working examples that pass this
 '''
