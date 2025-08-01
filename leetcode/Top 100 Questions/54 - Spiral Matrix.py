@@ -3,16 +3,16 @@
 Leetcode: 54 - Spiral Matrix
 
 
-	  right ->
-	* * * * * * *     
-	            *   
+           right ->
+        * * * * * * *     
+                    *   
      ^	* * * * *   *     
-     |	*       *   * down
+     |  *       *   * down
     up  *   *   *   *  |
-	*   * * *   *  V
-	*           *     
-	* * * * * * *  
-	   <- left
+        *   * * *   *  V
+        *           *     
+        * * * * * * *  
+           <- left
 
 
 Solution Logic:
